@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "Adv. Naila Hasan",
+      "speciality": "Criminal Law",
+      "experience": "10 Years",
+      "license": "BD-12345",
+      "image": "Lawyer-1.jpeg",
+      "availability": ["Monday", "Wednesday", "Friday"],
+      "consultationFee": 5000
+    },
+    {
+      "id": 2,
+      "name": "Adv. Fahim Rahman",
+      "speciality": "Family Law",
+      "experience": "7 Years",
+      "license": "BD-23456",
+      "image": "Lawyer-2.jpeg",
+      "availability": ["Tuesday", "Thursday", "Saturday"],
+      "consultationFee": 4000
+    },
+    {
+      "id": 3,
+      "name": "Adv. Tahmina Chowdhury",
+      "speciality": "Corporate Law",
+      "experience": "8 Years",
+      "license": "BD-34567",
+      "image": "Lawyer-3.jpeg",
+      "availability": ["Monday", "Thursday", "Saturday"],
+      "consultationFee": 6000
+    },
+    {
+      "id": 4,
+      "name": "Adv. Rafiq Ahmed",
+      "speciality": "Property Law",
+      "experience": "12 Years",
+      "license": "BD-45678",
+      "image": "Lawer-4.jpeg",
+      "availability": ["Tuesday", "Friday"],
+      "consultationFee": 7000
+    },
+    {
+      "id": 5,
+      "name": "Adv. Ayesha Sultana",
+      "speciality": "Intellectual Property Law",
+      "experience": "5 Years",
+      "license": "BD-56789",
+      "image": "Lawyer-0.jpeg",
+      "availability": ["Monday", "Wednesday", "Friday"],
+      "consultationFee": 5500
+    },
+    {
+      "id": 6,
+      "name": "Adv. Sayed Rezaul Karim",
+      "speciality": "Immigration Law",
+      "experience": "15 Years",
+      "license": "BD-67890",
+      "image": "Lawyer-6.jpeg",
+      "availability": ["Monday", "Thursday"],
+      "consultationFee": 8000
+    },
+    {
+      "id": 7,
+      "name": "Adv. Shamim Chowdhury",
+      "speciality": "Environmental Law",
+      "experience": "9 Years",
+      "license": "BD-78901",
+      "image": "Lawyer-7.jpeg",
+      "availability": ["Tuesday", "Friday"],
+      "consultationFee": 6500
+    },
+    {
+      "id": 8,
+      "name": "Adv. Mina Akter",
+      "speciality": "Family Law",
+      "experience": "6 Years",
+      "license": "BD-89012",
+      "image": "Lawyer-8.jpeg",
+      "availability": ["Monday", "Wednesday", "Friday"],
+      "consultationFee": 4500
+    },
+    {
+      "id": 9,
+      "name": "Adv. Jamil Hossain",
+      "speciality": "Corporate Law",
+      "experience": "11 Years",
+      "license": "BD-90123",
+      "image": "Lawyer-9.jpeg",
+      "availability": ["Thursday", "Saturday"],
+      "consultationFee": 7500
+    },
+    {
+      "id": 10,
+      "name": "Adv. Nadiya Iqbal",
+      "speciality": "Civil Law",
+      "experience": "14 Years",
+      "license": "BD-01234",
+      "image": "Lawyer-10.jpeg",
+      "availability": ["Monday", "Tuesday", "Thursday"],
+      "consultationFee": 8500 
+    },
+    {
+      "id": 11,
+      "name": "Adv. Farhan Zaman",
+      "speciality": "Tax Law",
+      "experience": "4 Years",
+      "license": "BD-12367",
+      "image": "Lawyer-11.jpeg",
+      "availability": ["Wednesday", "Saturday"],
+      "consultationFee": 5000 
+    },
+    {
+      "id": 12,
+      "name": "Adv. Nusrat Jahan",
+      "speciality": "Human Rights Law",
+      "experience": "13 Years",
+      "license": "BD-23478",
+      "image": "Lawyer-12.jpeg",
+      "availability": ["Monday", "Friday"],
+      "consultationFee": 6000 
+    }
+  ]
+  
