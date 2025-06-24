@@ -15,7 +15,7 @@ Users can browse detailed lawyer profiles, check availability, book or cancel ap
 
 ## 🌐 Live Site
 
-🔗 [Visit Live Application](https://storied-dasik-18b069.netlify.app/)  
+🔗 [Visit Live Application](https://aquamarine-scone-943f8d.netlify.app/)  
 
 ---
 
