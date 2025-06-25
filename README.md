@@ -56,15 +56,9 @@ Users can browse detailed lawyer profiles, check availability, book or cancel ap
 - 🔢 Counting Animation on stats cards on homepage
 - 🛡️ Routing guards for invalid or dynamic routes
 
----
 
-## 📦 Dependencies
 
-```bash
-CDN:
-- DaisyUI (Tailwind CSS Components)
-- Font Awesome 6.7
-- SweetAlert2 (for alert messages)
+
 
 ## 🙋‍♂️ Author
 
@@ -78,3 +72,17 @@ GitHub link: https://github.com/sanjidtalukder?tab=repositories
 ## 🎓 Guided By
 
 Inspired & structured under the guidance of Programming Hero
+
+
+
+---
+
+## 📦 Dependencies
+
+```bash
+CDN:
+- DaisyUI (Tailwind CSS Components)
+- Font Awesome 6.7
+- SweetAlert2 (for alert messages)
+
+
